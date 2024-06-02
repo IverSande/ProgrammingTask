@@ -1,0 +1,15 @@
+<div id="wrapper">
+    <form (ngSubmit)="onSubmit(calculatorForm)" #calculatorForm="ngForm">
+        <label>Amount of money</label>
+        <input  type="number" name="amount" ngModel>
+
+        <label>Years to pay back :  {{years}}</label>
+        <input type="range" min="1" max="30" value="25" (input)="valueChanged($event)">
+
+        <button type="submit">Calculate</button>
+    </form>
+
+    <div id="monthlyPay">{{monthlyPay.MonthlyPay}} asdfaf</div>
+
+    <div>{{monthlyPay.MonthlyPay}}</div>
+</div>

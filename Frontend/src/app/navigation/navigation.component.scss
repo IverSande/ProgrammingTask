@@ -1,0 +1,21 @@
+
+a{
+    border: 1px solid black;
+    margin: 1rem;
+    padding: 0.5rem;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: black;
+
+}
+a:hover{
+    background-color: blue;
+}
+
+div{
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 1fr 1fr;
+    margin-bottom: 3rem;
+}

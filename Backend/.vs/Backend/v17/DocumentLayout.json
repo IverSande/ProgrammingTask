@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Iver\\Aritma\\ProgrammingTask\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E08C9C7-B3B5-4259-BC4A-03942CB534FB}|Backend\\Backend.csproj|c:\\users\\iver\\aritma\\programmingtask\\backend\\backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E08C9C7-B3B5-4259-BC4A-03942CB534FB}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E08C9C7-B3B5-4259-BC4A-03942CB534FB}|Backend\\Backend.csproj|c:\\users\\iver\\aritma\\programmingtask\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E08C9C7-B3B5-4259-BC4A-03942CB534FB}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E08C9C7-B3B5-4259-BC4A-03942CB534FB}|Backend\\Backend.csproj|c:\\users\\iver\\aritma\\programmingtask\\backend\\backend\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E08C9C7-B3B5-4259-BC4A-03942CB534FB}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E08C9C7-B3B5-4259-BC4A-03942CB534FB}|Backend\\Backend.csproj|c:\\users\\iver\\aritma\\programmingtask\\backend\\backend\\models\\loanpaymenttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E08C9C7-B3B5-4259-BC4A-03942CB534FB}|Backend\\Backend.csproj|solutionrelative:backend\\models\\loanpaymenttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E08C9C7-B3B5-4259-BC4A-03942CB534FB}|Backend\\Backend.csproj|c:\\users\\iver\\aritma\\programmingtask\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E08C9C7-B3B5-4259-BC4A-03942CB534FB}|Backend\\Backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E08C9C7-B3B5-4259-BC4A-03942CB534FB}|Backend\\Backend.csproj|c:\\users\\iver\\aritma\\programmingtask\\backend\\backend\\models\\typeloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E08C9C7-B3B5-4259-BC4A-03942CB534FB}|Backend\\Backend.csproj|solutionrelative:backend\\models\\typeloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E08C9C7-B3B5-4259-BC4A-03942CB534FB}|Backend\\Backend.csproj|c:\\users\\iver\\aritma\\programmingtask\\backend\\backend\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E08C9C7-B3B5-4259-BC4A-03942CB534FB}|Backend\\Backend.csproj|solutionrelative:backend\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E08C9C7-B3B5-4259-BC4A-03942CB534FB}|Backend\\Backend.csproj|c:\\users\\iver\\aritma\\programmingtask\\backend\\backend\\models\\aritmacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E08C9C7-B3B5-4259-BC4A-03942CB534FB}|Backend\\Backend.csproj|solutionrelative:backend\\models\\aritmacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E08C9C7-B3B5-4259-BC4A-03942CB534FB}|Backend\\Backend.csproj|c:\\users\\iver\\aritma\\programmingtask\\backend\\backend\\services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E08C9C7-B3B5-4259-BC4A-03942CB534FB}|Backend\\Backend.csproj|solutionrelative:backend\\services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E08C9C7-B3B5-4259-BC4A-03942CB534FB}|Backend\\Backend.csproj|c:\\users\\iver\\aritma\\programmingtask\\backend\\backend\\backend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7E08C9C7-B3B5-4259-BC4A-03942CB534FB}|Backend\\Backend.csproj|solutionrelative:backend\\backend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E08C9C7-B3B5-4259-BC4A-03942CB534FB}|Backend\\Backend.csproj|c:\\users\\iver\\aritma\\programmingtask\\backend\\backend\\backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7E08C9C7-B3B5-4259-BC4A-03942CB534FB}|Backend\\Backend.csproj|solutionrelative:backend\\backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 26,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +58,131 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Iver\\Aritma\\ProgrammingTask\\Backend\\Backend\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Backend\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Iver\\Aritma\\ProgrammingTask\\Backend\\Backend\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Backend\\Controllers\\WeatherForecastController.cs",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Iver\\Aritma\\ProgrammingTask\\Backend\\Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\Iver\\Aritma\\ProgrammingTask\\Backend\\Backend\\appsettings.json",
+              "RelativeToolTip": "Backend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-02T11:01:18.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoanPaymentTable.cs",
+              "DocumentMoniker": "C:\\Users\\Iver\\Aritma\\ProgrammingTask\\Backend\\Backend\\Models\\LoanPaymentTable.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\LoanPaymentTable.cs",
+              "ToolTip": "C:\\Users\\Iver\\Aritma\\ProgrammingTask\\Backend\\Backend\\Models\\LoanPaymentTable.cs",
+              "RelativeToolTip": "Backend\\Models\\LoanPaymentTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T10:34:57.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalculationService.cs",
+              "DocumentMoniker": "C:\\Users\\Iver\\Aritma\\ProgrammingTask\\Backend\\Backend\\Services\\CalculationService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\CalculationService.cs",
+              "ToolTip": "C:\\Users\\Iver\\Aritma\\ProgrammingTask\\Backend\\Backend\\Services\\CalculationService.cs",
+              "RelativeToolTip": "Backend\\Services\\CalculationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T10:17:49.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\Iver\\Aritma\\ProgrammingTask\\Backend\\Backend\\Models\\Loan.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\Loan.cs",
+              "ToolTip": "C:\\Users\\Iver\\Aritma\\ProgrammingTask\\Backend\\Backend\\Models\\Loan.cs",
+              "RelativeToolTip": "Backend\\Models\\Loan.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T08:48:11.182Z",
+              "WhenOpened": "2024-06-02T10:17:39.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TypeLoan.cs",
+              "DocumentMoniker": "C:\\Users\\Iver\\Aritma\\ProgrammingTask\\Backend\\Backend\\Models\\TypeLoan.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\TypeLoan.cs",
+              "ToolTip": "C:\\Users\\Iver\\Aritma\\ProgrammingTask\\Backend\\Backend\\Models\\TypeLoan.cs",
+              "RelativeToolTip": "Backend\\Models\\TypeLoan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T10:17:35.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AritmaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Iver\\Aritma\\ProgrammingTask\\Backend\\Backend\\Models\\AritmaContext.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\AritmaContext.cs",
+              "ToolTip": "C:\\Users\\Iver\\Aritma\\ProgrammingTask\\Backend\\Backend\\Models\\AritmaContext.cs",
+              "RelativeToolTip": "Backend\\Models\\AritmaContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T10:16:02.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoanController.cs",
+              "DocumentMoniker": "C:\\Users\\Iver\\Aritma\\ProgrammingTask\\Backend\\Backend\\Controllers\\LoanController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\LoanController.cs",
+              "ToolTip": "C:\\Users\\Iver\\Aritma\\ProgrammingTask\\Backend\\Backend\\Controllers\\LoanController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\LoanController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T10:15:27.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Backend",
+              "DocumentMoniker": "C:\\Users\\Iver\\Aritma\\ProgrammingTask\\Backend\\Backend\\Backend.csproj",
+              "RelativeDocumentMoniker": "Backend\\Backend.csproj",
+              "ToolTip": "C:\\Users\\Iver\\Aritma\\ProgrammingTask\\Backend\\Backend\\Backend.csproj",
+              "RelativeToolTip": "Backend\\Backend.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-02T10:15:21.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Iver\\Aritma\\ProgrammingTask\\Backend\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\Iver\\Aritma\\ProgrammingTask\\Backend\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T10:15:14.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Backend.http",
+              "DocumentMoniker": "C:\\Users\\Iver\\Aritma\\ProgrammingTask\\Backend\\Backend\\Backend.http",
+              "RelativeDocumentMoniker": "Backend\\Backend.http",
+              "ToolTip": "C:\\Users\\Iver\\Aritma\\ProgrammingTask\\Backend\\Backend\\Backend.http",
+              "RelativeToolTip": "Backend\\Backend.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-02T10:15:14.156Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,22 @@
+#wrapper{
+    display: grid;
+    justify-content: center;
+
+}
+form{
+    display: grid;
+}
+input{
+    margin: 1rem;
+}
+label{
+    margin-left: 1rem;
+}
+#monthlyPay{
+
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-top: 1rem;
+
+}
