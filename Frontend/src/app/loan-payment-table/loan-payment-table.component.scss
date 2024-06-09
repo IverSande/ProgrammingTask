@@ -1,0 +1,12 @@
+#header{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.paymentRows{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+    div{
+        border: solid 1px black;
+    }
+}

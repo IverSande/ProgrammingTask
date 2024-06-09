@@ -3,7 +3,12 @@ using System.Numerics;
 
 namespace Backend.Services
 {
-    public class CalculationService
+    public interface ICalculationService
+    {
+        public LoanPaymentTable calculateSerialLoanByYears(long amount, double interest, int years);
+
+    }
+    public class CalculationService : ICalculationService
     {
 
 

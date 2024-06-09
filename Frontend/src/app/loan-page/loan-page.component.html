@@ -1,1 +1,12 @@
-<p>loan-page works!</p>
+<p>Types of loans</p>
+
+<div id="header">
+    <div>Type of loan</div>
+    <div>Interest</div>
+</div>
+<div *ngFor="let row of loanTypes" class="loanTypeRows">
+    <div>{{row.loanType}}</div>
+    <div>{{(row.interest * 100).toPrecision(2)}}%</div>
+
+</div>
+

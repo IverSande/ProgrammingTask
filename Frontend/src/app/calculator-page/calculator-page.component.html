@@ -9,7 +9,9 @@
         <button type="submit">Calculate</button>
     </form>
 
-    <div id="monthlyPay">{{monthlyPay.MonthlyPay}} asdfaf</div>
+    <h2>Monthly Pay</h2>
+    <div id="monthlyPay">{{calculatedLoan.MonthlyPay}}</div>
+    
+    <app-loan-payment-table [calculatedLoan]="calculatedLoan"></app-loan-payment-table>
 
-    <div>{{monthlyPay.MonthlyPay}}</div>
 </div>

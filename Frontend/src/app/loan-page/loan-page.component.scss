@@ -1,0 +1,13 @@
+
+#header{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.loanTypeRows{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+    div{
+        border: solid 1px black;
+    }
+}
