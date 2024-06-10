@@ -6,23 +6,24 @@ namespace Backend.Models;
 
 public partial class AritmaContext : DbContext
 {
-    public AritmaContext()
+    private readonly IConfiguration _configuration;
+    public AritmaContext(IConfiguration configuration)
     {
+        _configuration = configuration;
     }
 
-    public AritmaContext(DbContextOptions<AritmaContext> options)
+    public AritmaContext(DbContextOptions<AritmaContext> options, IConfiguration configuration)
         : base(options)
     {
+        _configuration = configuration;
     }
 
     public virtual DbSet<Loan> Loans { get; set; }
 
     public virtual DbSet<TypeLoan> TypeLoans { get; set; }
 
-    //Should not be here with all data
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseNpgsql("Host=ep-falling-wave-a267386u-pooler.eu-central-1.aws.neon.tech;Database=aritma;Username=default;Password=B9wk7ThSjqaD");
+        => optionsBuilder.UseNpgsql(_configuration.GetConnectionString("vercelTest"));
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

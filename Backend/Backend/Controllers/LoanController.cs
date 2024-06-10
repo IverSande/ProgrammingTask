@@ -1,11 +1,7 @@
-﻿using Backend.Models;
+﻿using Backend.Interface;
+using Backend.Models;
 using Backend.Services;
-using Microsoft.AspNetCore.Cors;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using System.Text.Json;
-
 namespace Backend.Controllers
 {
     [Route("api/[controller]")]

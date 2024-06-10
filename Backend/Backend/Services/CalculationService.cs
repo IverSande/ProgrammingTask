@@ -1,13 +1,8 @@
-﻿using Backend.Models;
-using System.Numerics;
+﻿using Backend.Interface;
+using Backend.Models;
 
 namespace Backend.Services
 {
-    public interface ICalculationService
-    {
-        public LoanPaymentTable calculateSerialLoanByYears(long amount, double interest, int years);
-
-    }
     public class CalculationService : ICalculationService
     {
 
@@ -23,7 +18,7 @@ namespace Backend.Services
 
             for (int i = 0; i < downPaymentMonths; i++)
             {
-                //Rounding to closest int, dont know what is standard practice, but never seen floats on loan calculators
+                //Rounding to closest int, dont know what is standard practice, but dont want floats 
                 monthlyInterest.Add(Convert.ToInt64(amountLeft * (interest / 12)));
                 amountLeft -= paymentForEachMonth;
             }
